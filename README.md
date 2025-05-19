@@ -9,7 +9,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Halo, Saya Septia Natalia Br Sitepu</h1>
+    <h1>Halo, Saya Lidya Aysa Br Bangun</h1>
     <img src="https://via.placeholder.com/150" alt="Foto Profil" class="profile-img">
     
     <p>Saya adalah seorang mahasiswa Teknik Informatika yang tertarik pada pengembangan web dan keamanan siber.</p>
