@@ -22,7 +22,7 @@
     </ul>
 
     <h2>📫 Kontak</h2>
-    <p>Email: <a href="mailto:septianatalia298@gmail.com">septianatalia298@gmail.com</a></p>
+    <p>Email: <a href="mailto:lidyaaisyah88@gmail.com">lidyaaisyag88@gmail.com</a></p>
   </div>
 </body>
 </html>
